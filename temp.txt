@@ -1,3 +1,5 @@
 DATABASE_URL="mysql://arijan:Gzh}=dW^w~)2@72.167.248.31:3306/company-budget"
 
 UPDATE User SET role = 'ADMIN' WHERE email = 'a@a.com';
+
+This is temp file for dev.
